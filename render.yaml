@@ -1,0 +1,7 @@
+services:
+  - buildCommand: npm install
+    env: node
+    name: md-shakil-live-stream
+    plan: free
+    startCommand: node server.js
+    type: web
