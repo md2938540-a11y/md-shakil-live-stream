@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://md2938540-a11y.github.io/md-shakil-live-stream/sitemap.xml
